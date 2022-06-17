@@ -20,8 +20,9 @@ AFLW2000-3D is a dataset of 2000 images that have been annotated with image-leve
 
 4- Test the model on an image and draw predictions.
 
-## Result of testing the model on video with many position
-https://drive.google.com/file/d/14ZppzPxEDV0s73Kwfxtf4tsZJfHTgVm0/view?usp=sharing
+
 
 
 Made with :heart: by <a href="https://github.com/esraasayed98" target="_blank">Esraa Sayed</a> 
+
+
